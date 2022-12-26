@@ -11,4 +11,7 @@
 ">Inferring mRNA from Protein</a>
 <br>
 <a href="https://github.com/abolfazlmalekahmadi/Rosalind_problems/blob/main/Local%20Alignment%20with%20Affine%20Gap%20Penalty.py
-">Local Alignment with Affine Gap Penalty.</a>
+">Local Alignment with Affine Gap Penalty</a>
+<br>
+<a href="https://github.com/abolfazlmalekahmadi/Rosalind_problems/blob/main/Local%20Alignment%20with%20Scoring%20Matrix.py
+">Local Alignment with Scoring Matrix</a>
