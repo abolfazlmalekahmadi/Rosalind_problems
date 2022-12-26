@@ -6,3 +6,6 @@
 <br>
 <a href="https://github.com/abolfazlmalekahmadi/Rosalind_problems/blob/main/Global%20Alignment%20with%20Scoring%20Matrix%20and%20Affine%20Gap%20Penalty.py
 ">Global Alignment with Scoring Matrix and Affine Gap Penalty</a>
+<br>
+<a href="https://github.com/abolfazlmalekahmadi/Rosalind_problems/blob/main/Inferring%20mRNA%20from%20Protein.py
+">Inferring mRNA from Protein</a>
