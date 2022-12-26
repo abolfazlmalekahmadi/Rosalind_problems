@@ -15,3 +15,6 @@
 <br>
 <a href="https://github.com/abolfazlmalekahmadi/Rosalind_problems/blob/main/Local%20Alignment%20with%20Scoring%20Matrix.py
 ">Local Alignment with Scoring Matrix</a>
+<br>
+<a href="https://github.com/abolfazlmalekahmadi/Rosalind_problems/blob/main/Multiple%20Alignment.py
+">Multiple Alignment.</a>
